@@ -1,0 +1,4 @@
+include ':layoutmargin'
+include ':gravitylayout'
+include ':app'
+rootProject.name = "lesson_7"
